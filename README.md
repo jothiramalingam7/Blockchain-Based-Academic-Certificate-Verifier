@@ -1,3 +1,5 @@
+ Project Name: CertChain
+Blockchain-Powered Academic Certificate Verifier
 Introduction
 Purpose:
 CertChain is a decentralized application (dApp) designed to issue, store, and verify academic certificates securely on the blockchain.
